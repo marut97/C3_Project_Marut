@@ -83,7 +83,7 @@ class RestaurantTest {
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
     @Test
-    public void get_order_value_should_return_swum_of_selected_items_cost_if_multiple_valid_items_are_selected(){
+    public void get_order_value_should_return_sum_of_selected_items_cost_if_multiple_valid_items_are_selected(){
 
         setupTests();
 
